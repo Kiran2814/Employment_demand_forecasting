@@ -1,0 +1,4 @@
+[server]
+baseUrlPath = "http://canadaemployment.com/"
+[browser]
+#serverAddress = "http://canadaemployment.com/"
